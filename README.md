@@ -3,7 +3,7 @@
 **QA Analyst → Frontend Developer**
 
 Currently learning TypeScript and building with HTML, CSS & JavaScript.
-Next stop: React.
+**Next stop: React** ⚛️
 
 ### 🛠️ Tech Stack
 
@@ -21,26 +21,6 @@ Next stop: React.
 
 A JavaScript project where I'm working with dynamic DOM rendering, API data, CRUD operations, and drag & drop functionality.
 
-### 📚 Currently Learning
-
-TypeScript
-
 ### 📫 Find Me
 
 [LinkedIn](https://www.linkedin.com/feed/)
-
-
-<!--
-**Nikola-Vlad/Nikola-Vlad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
