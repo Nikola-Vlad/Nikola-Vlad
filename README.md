@@ -19,7 +19,7 @@ Currently learning TypeScript and building with HTML, CSS & JavaScript.
 
 **Kanban Board**
 
-A JavaScript project where I'm working with dynamic DOM rendering, API data, CRUD operations, and drag & drop functionality.
+A JavaScript project where I'm working with dynamic DOM rendering, API data, <br> CRUD operations, and drag & drop functionality.
 
 ### 📫 Find Me
 
