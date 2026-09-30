@@ -3,7 +3,7 @@
 **QA Analyst → Frontend Developer**
 
 Currently learning TypeScript and building with HTML, CSS & JavaScript.
-**Next stop: React** ⚛️
+<br> **Next stop: React** ⚛️
 
 ### 🛠️ Tech Stack
 
